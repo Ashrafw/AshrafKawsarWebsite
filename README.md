@@ -1,5 +1,3 @@
 # AshrafKawsarWebsite
-New Business
 
-line 4
-line 5
+Aim at building a social website used for publishing content on the web
